@@ -1,0 +1,28 @@
+.col {
+    display: inline;
+    background-color: rgb(234, 182, 105);
+    margin: 3px;
+    padding: 13px;
+
+}
+
+.container {
+    text-align: center;
+    padding-top: 10%;
+
+
+}
+
+.pop {
+    position: fixed;
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 50px;
+    background-color: red;
+    color: white;
+
+}
